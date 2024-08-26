@@ -32,3 +32,17 @@ After each set, it asks, "Are you tired?"
 
 
 #INTERMEDIATE_TASKS
+
+Intermediate P : Web Scraper: Extract data from websites using libraries like Beautiful Soup or Scrapy.
+
+Word Guessing Game & Words.txt : Implement the wordguessing game with visual progress and hints.
+
+
+#HARD_TASK
+
+Cricket : As a budding sports analyst with an interest in cricket, your task is to
+conduct a detailed fielding performance analysis for three players of
+your choice from any innings of a T20 match. This analysis will help to
+gauge individual fielding contributions and their impact on the team's
+defensive play. A detailed sample data and sample performance matrix
+is attached along the mail of task list.
